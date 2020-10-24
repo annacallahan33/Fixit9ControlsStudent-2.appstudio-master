@@ -14,27 +14,9 @@
       "!type": "External",
       "file": [
         "forms",
-        "describeYou",
+        "CULogin",
         "Elements",
-        "radDescYou.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "describeYou",
-        "Elements",
-        "lblRadioResp.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "describeYou",
-        "Elements",
-        "btnFavExercPage.json"
+        "lblLogin.json"
       ]
     }
   ],
@@ -44,7 +26,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "describeYou",
+  "id": "CULogin",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -52,13 +34,11 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "describeYou.onshow()",
+  "onshow": "",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",
   "script": null,
-  "scroll_options": "mouseWheel:true, bounce:true, zoom:false",
-  "scrolling": "false",
   "setFocusID": "",
   "style": "",
   "theme": "",
